@@ -24,7 +24,7 @@ So for the last row in that table:
 - etc.
 
 And the #1 prediction for the image in that tweet was spot on:
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/72946315/218461214-5570c5bb-e8cd-46d5-9a17-1301107b29fa.png)
 
 This is a golden retriever named Stuart.
 
